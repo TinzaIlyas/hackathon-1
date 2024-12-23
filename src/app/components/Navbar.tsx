@@ -55,7 +55,7 @@ export default function Navbar () {
               <a href="#">Home</a>
             </li>
             <li className="hover:text-pink-500">
-              <a href="/pages">Pages</a>
+              <a href="#">Pages</a>
             </li>
             <li className="hover:text-pink-500">
               <a href="#">Products</a>
